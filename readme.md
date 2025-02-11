@@ -27,6 +27,7 @@ bash train_hlgp_sl.sh
 
 
 ## Evaluation
+We have provided the pretrained model for you to use directly.
 
 **RL-driven HLGP**
 ```
@@ -42,6 +43,7 @@ Arguments:
 **SL-driven HLGP**
 ```
 bash eval_hlgp_sl.sh [batch_size] [beam_size] [problem_size] [knns] [eval_revision_iters] [dataset_name]
+
 Arguments:
 [problem_size]: 1000, 2000, 5000, 7000, 10000
 [beam_size]: 16 (problem_size=1000, 2000), 8 (problem_size=5000), 4 (problem_size=7000, 10000)
@@ -53,8 +55,8 @@ Arguments:
 ## Acknowledgement
 We appreciate the anonymous reviewers, (S)ACs, and PCs of AAMAS2025 for their insightful
 comments to further improve our paper and their service to the community.
-We would like to thank the authors of GLOP [implementation of GLOP](https://github.com/henry-yeh/GLOP)
-and the authors of BQ [implementation of BQ](https://github.com/naver/bq-nco) for their invaluable contributions to the community.
+We would like to thank the authors of GLOP ([implementation of GLOP](https://github.com/henry-yeh/GLOP))
+and the authors of BQ ([implementation of BQ](https://github.com/naver/bq-nco)) for their invaluable contributions to the community.
 
 
 ## Citation
