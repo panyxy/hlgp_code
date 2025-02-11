@@ -1,0 +1,10 @@
+tensorboardX
+scipy
+tdqm
+matplotlib
+pickle5
+entmax
+pytz==2024.1
+numpy==1.23.5
+
+
