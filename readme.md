@@ -65,7 +65,7 @@ and the authors of BQ ([implementation of BQ](https://github.com/naver/bq-nco)) 
 @inproceedings{
 pan2025hlgp4cvrp,
 title={Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems},
-author={Pan, Yuxin and Liu, Ruohong and Cao Zhiguang and Chen, Yize and Lin, Fangzhen},
+author={Pan, Yuxin and Liu, Ruohong and Chen, Yize and Cao Zhiguang and Lin, Fangzhen},
 booktitle={The 24th International Conference on Autonomous Agents and Multi-Agent Systems},
 year={2025},
 }
