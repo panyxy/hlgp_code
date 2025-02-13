@@ -1,7 +1,7 @@
 # Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems
 
 ## Introduction
-This is the official PyTorch implementation for the paper titled ["Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems"]().
+This is the official PyTorch implementation for the paper titled ["Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems"](https://arxiv.org/pdf/2502.08340).
 The paper presents the HLGP framework, a new divide-and-conquer approach that combines global and local partition policies in graph partitioning tasks for subsequent node permutation. 
 This method enables the scaling of neural solvers for the vehicle routing problem to handle over 10,000 nodes efficiently.
 ## Dependencies
